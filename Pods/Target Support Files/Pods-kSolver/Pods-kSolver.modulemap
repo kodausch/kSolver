@@ -1,0 +1,6 @@
+framework module Pods_kSolver {
+  umbrella header "Pods-kSolver-umbrella.h"
+
+  export *
+  module * { export * }
+}

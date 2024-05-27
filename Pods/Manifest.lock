@@ -1,0 +1,20 @@
+PODS:
+  - FFPopup (1.1.5)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - FFPopup
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - FFPopup
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FFPopup: a208dcee8db3e54ec4a88fcd6481f6f5d85b7a83
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 3dd751c58116db812fa5fbe98f8add6628b0ab28
+
+COCOAPODS: 1.15.2
